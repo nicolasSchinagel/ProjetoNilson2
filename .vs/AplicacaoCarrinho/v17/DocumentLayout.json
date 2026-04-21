@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson2\\aplicacaocarrinho\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|c:\\users\\lizsc\\onedrive\\pictures\\nic\\projetoswebasp\\projetonilson2\\aplicacaocarrinho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{292DA0BC-EE67-4091-89C2-EFE6F731FC6A}|AplicacaoCarrinho\\AplicacaoCarrinho.csproj|solutionrelative:aplicacaocarrinho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T21:19:49.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Biblioteca.cshtml",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Views\\Home\\Biblioteca.cshtml",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\Biblioteca.cshtml",
@@ -106,12 +123,11 @@
               "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\Biblioteca.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T21:36:39.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T21:36:39.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Controllers\\HomeController.cs",
@@ -124,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LivrosController.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Controllers\\LivrosController.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Controllers\\LivrosController.cs",
@@ -132,12 +148,11 @@
               "RelativeToolTip": "AplicacaoCarrinho\\Controllers\\LivrosController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAkwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T19:00:45.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T19:00:45.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Livro.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Models\\Livro.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Models\\Livro.cs",
@@ -145,12 +160,11 @@
               "RelativeToolTip": "AplicacaoCarrinho\\Models\\Livro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T12:21:25.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T12:21:25.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
@@ -158,12 +172,11 @@
               "RelativeToolTip": "AplicacaoCarrinho\\Views\\Livros\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-28T19:11:51.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T19:11:51.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CadLivro.cshtml",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
@@ -171,12 +184,11 @@
               "RelativeToolTip": "AplicacaoCarrinho\\Views\\Livros\\CadLivro.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-01T11:27:49.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-01T11:27:49.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
@@ -184,12 +196,11 @@
               "RelativeToolTip": "AplicacaoCarrinho\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T21:41:45.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T21:41:45.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CookieCarrinhoCompra.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
@@ -197,12 +208,11 @@
               "RelativeToolTip": "AplicacaoCarrinho\\CarrinhoCompra\\CookieCarrinhoCompra.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowGIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T11:24:30.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T11:24:30.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Cookie.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Cookie\\Cookie.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Cookie\\Cookie.cs",
@@ -214,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Program.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Program.cs",
@@ -226,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "EmprestimoRepository.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Repository\\EmprestimoRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\EmprestimoRepository.cs",
@@ -238,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Repository\\ItemRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\ItemRepository.cs",
@@ -250,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IEmprestimoRepository.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Repository\\Contract\\IEmprestimoRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\Contract\\IEmprestimoRepository.cs",
@@ -262,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Repository\\Contract\\IItemRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\Contract\\IItemRepository.cs",
@@ -274,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LivroRepository.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Repository\\LivroRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\LivroRepository.cs",
@@ -286,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Models\\Item.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Models\\Item.cs",
@@ -298,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\appsettings.json",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\appsettings.json",
@@ -310,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GerenciadorArquivo.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\GerenciaArquivos\\GerenciadorArquivo.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\GerenciaArquivos\\GerenciadorArquivo.cs",
@@ -322,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ILivroRepository.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Repository\\Contract\\ILivroRepository.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Repository\\Contract\\ILivroRepository.cs",
@@ -334,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Emprestimo.cs",
               "DocumentMoniker": "C:\\Users\\lizsc\\OneDrive\\Pictures\\Nic\\projetosWebASP\\ProjetoNilson2\\AplicacaoCarrinho\\Models\\Emprestimo.cs",
               "RelativeDocumentMoniker": "AplicacaoCarrinho\\Models\\Emprestimo.cs",
