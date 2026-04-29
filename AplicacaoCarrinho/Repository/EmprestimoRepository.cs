@@ -57,12 +57,12 @@ namespace AplicacaoCarrinho.Repository
 
         public IEnumerable<Emprestimo> ObterTodosEmprestimos()
         {
-
+            throw new NotImplementedException();
         }
 
         public Emprestimo ObterEmprestimos(int Id)
         {
-
+            throw new NotImplementedException();
         }
     }
 }

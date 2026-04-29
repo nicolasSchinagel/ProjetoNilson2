@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\AplicacaoCarrinho.props" />
-</Project>

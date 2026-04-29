@@ -14,6 +14,11 @@ namespace AplicacaoCarrinho.Repository
             _conexaoMySQL = conf.GetConnectionString("ConexaoMySQL");
         }
 
+        public void Atualizar(Item item)
+        {
+            throw new NotImplementedException();
+        }
+
         public void Cadastrar(Item item)
         {
             using (var conexao = new MySqlConnection(_conexaoMySQL))
@@ -29,24 +34,19 @@ namespace AplicacaoCarrinho.Repository
             }
         }
 
-        public void Atualizar(Item item)
-        {
-
-        }
-
         public void Excluir(int Id)
         {
-
+            throw new NotImplementedException();
         }
 
         public Item ObterItens(int Id)
         {
-            
+            throw new NotImplementedException();
         }
 
         public IEnumerable<Item> ObterTodosItens()
         {
-
+            throw new NotImplementedException();
         }
     }
 }

@@ -26,7 +26,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View(_livroRepository.ObterTodosLivros);
+        return View(_livroRepository.ObterTodosLivros());
     }
 
     public IActionResult Privacy()

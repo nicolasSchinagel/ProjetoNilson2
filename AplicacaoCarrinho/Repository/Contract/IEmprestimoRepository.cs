@@ -12,7 +12,7 @@ namespace AplicacaoCarrinho.Repository.Contract
 
         Emprestimo ObterEmprestimos(int id);
 
-        void buscaIdEmp(Emprestimo emprestimo):
+        void buscaIdEmp(Emprestimo emprestimo);
 
         void Excluir(int id);
     }

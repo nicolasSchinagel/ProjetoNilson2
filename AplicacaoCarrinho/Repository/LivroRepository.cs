@@ -77,11 +77,11 @@ namespace AplicacaoCarrinho.Repository
         }
         public void Excluir(int id)
         {
-
+            throw new NotImplementedException();
         }
         public void Atualizar(Livro livro)
         {
-
+            throw new NotImplementedException();
         }
     }
 }

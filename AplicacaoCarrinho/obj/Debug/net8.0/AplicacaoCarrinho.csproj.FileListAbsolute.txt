@@ -316,7 +316,6 @@ C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\bin\Debug\net8.0\Syste
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\bin\Debug\net8.0\ZstdSharp.dll
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\bin\Debug\net8.0\af\Humanizer.resources.dll
@@ -479,12 +478,6 @@ C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\scope
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets\msbuild.AplicacaoCarrinho.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets\msbuild.AplicacaoCarrinho.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets\msbuild.build.AplicacaoCarrinho.props
-C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AplicacaoCarrinho.props
-C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AplicacaoCarrinho.props
-C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\Aplicaca.5548935A.Up2Date
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\AplicacaoCarrinho.dll
@@ -492,3 +485,9 @@ C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\refin
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\AplicacaoCarrinho.pdb
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\AplicacaoCarrinho.genruntimeconfig.cache
 C:\Users\3MTEC\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\ref\AplicacaoCarrinho.dll
+C:\Users\3mtec\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\3mtec\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\3mtec\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\3mtec\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\3mtec\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\3mtec\Documents\ProjetoNilson2\AplicacaoCarrinho\obj\Debug\net8.0\swae.build.ex.cache
