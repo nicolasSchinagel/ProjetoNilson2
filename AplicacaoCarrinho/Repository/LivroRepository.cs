@@ -19,7 +19,7 @@ namespace AplicacaoCarrinho.Repository
                 conexao.Open();
                 MySqlCommand cmd = new MySqlCommand("insert into tbLivro values(default, @NomeLivro, @ImagemLivro)", conexao);
                 cmd.Parameters.Add("@NomeLivro", MySqlDbType.VarChar).Value = livro.NomeLivro;
-                cmd.Parameters.Add("ImagemLivro", MySqlDbType.VarChar).Value = livro.imagemLivro;
+                cmd.Parameters.Add("@ImagemLivro", MySqlDbType.VarChar).Value = livro.imagemLivro;
                 cmd.ExecuteNonQuery();
                 conexao.Close();
             }

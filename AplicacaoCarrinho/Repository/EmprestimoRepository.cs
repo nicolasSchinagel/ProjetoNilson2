@@ -24,7 +24,7 @@ namespace AplicacaoCarrinho.Repository
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("inser into tbEmprestimo values(default, @dtEmpre, @dtDev, @codUsu", conexao);
+                MySqlCommand cmd = new MySqlCommand("insert into tbEmprestimo(dataEmp, dataDev, codUsu) values(@dtEmpre, @dtDev, @codUsu);", conexao);
 
                 cmd.Parameters.Add("@dtEmpre", MySqlDbType.VarChar).Value = emprestimo.dtEmpre;
                 cmd.Parameters.Add("@dtDev", MySqlDbType.VarChar).Value = emprestimo.dtDev;
